@@ -1,4 +1,4 @@
 # RLDF: A Region-Level Deepfake Benchmark for Partial-Face Manipulation Detection
 
-> **Code and dataset coming soon.**
+> **Training and preprocessing pipelines are being cleaned for anonymized release and will be updated shortly.**
 
